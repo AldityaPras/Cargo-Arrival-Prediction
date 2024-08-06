@@ -1,4 +1,3 @@
-"""
 # Shipping Port Operations Cost Management Using Machine Learning
 
 ## Project Overview
@@ -30,5 +29,3 @@ Instructions on how to clone the repository, set up the environment, and run the
 
 ## Future Work
 Suggestions for future improvements, such as incorporating real-time data, enhancing model accuracy, or expanding the scope of predictions to other port operations.
-
-"""
